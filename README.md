@@ -5,4 +5,4 @@ Aim is to build very deep convolutional networks, using Residual Networks (ResNe
 - Implement the basic building blocks of ResNets. 
 - Put together these building blocks to implement and train a state-of-the-art neural network for image classification. 
 
-We build ResNet 50 model and use it to perform Image Classification on SIGNS dataset.
+We build ResNet 50 model using Keras and use it to perform Image Classification on SIGNS dataset.
